@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Linear</string>
+    <string name="hello_i_am_a_textview">Hello, I am a TextView</string>
+    <string name="hello_i_am_a_button">Hello, I am a Button</string>
+    <string name="reminder">Reminder</string>
+    <string name="done">Done</string>
+</resources>
